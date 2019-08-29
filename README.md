@@ -7,4 +7,7 @@
 4. 提供手动更新及后台自动更新天气的功能。
 
 LitePal: https://github.com/LitePalFramework/LitePal
+OkHttp：https://square.github.io/okhttp/
+GSON：https://github.com/google/gson
+
 全国省市县天气（和风天气）数据接口： http://guolin.tech/api/china
