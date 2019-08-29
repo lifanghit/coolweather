@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <!--configure the database name of project-->
+    <dbname value="cool_weather" />
+    <!--configure the version of database. Each time you want to upgrade database, plus the value here.-->
+    <version value="1" />
+
+    <!--configure the mapping classes-->
+    <list>
+        <mapping class="com.example.coolweather.db.Province" />
+        <mapping class="com.example.coolweather.db.City" />
+        <mapping class="com.example.coolweather.db.Country" />
+    </list>
+</litepal>
